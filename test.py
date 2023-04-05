@@ -1,2 +1,1 @@
-dasfasx.difference(y)
-fdsaf
+print('Hello world');
